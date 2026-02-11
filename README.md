@@ -503,8 +503,8 @@ This research builds upon and contributes to several areas:
 For questions, suggestions, or collaboration opportunities:
 
 - **GitHub Issues**: [Open an issue](https://github.com/mociatto/Bird-Vs-Drone/issues)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: m.anoosha@hull.ac.uk
+- **LinkedIn**: [Mostafa Anoosha](www.linkedin.com/in/mostafa-anoosha)
 
 ---
 
