@@ -25,7 +25,6 @@ A research project investigating systematic metadata extraction from image-only 
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -237,7 +236,7 @@ The main research contribution: implements a complete VFL system and evaluates i
 ## Methodology
 
 ### Phase 1: Data Preparation
-1. **Dataset Acquisition**: Birds vs Drones image dataset from Kaggle
+1. **Dataset Acquisition**: [Birds vs Drone Dataset](https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset) (Kaggle)
 2. **Metadata Extraction**: 
    - LLM-based visual analysis using Google Gemini API
    - Programmatic feature extraction using SAM and OpenCV
@@ -341,9 +340,9 @@ Execute the complete VFL pipeline with privacy attack evaluation:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Image Baseline (EfficientNetB0) | ~95% | - | - | - |
-| Tabular Baseline (Ensemble) | ~75-80% | - | - | - |
-| **VFL System (Image + Tabular)** | **>80%** | - | - | - |
+| Image Baseline (EfficientNetB0) | 89% | 0.89 | 0.89 | 0.89 |
+| Tabular Baseline (Ensemble) | 78% | 0.78 | 0.78 | 0.78 |
+| **VFL System (Image + Tabular)** | **86%** | 0.86 | 0.86 | 0.86 |
 
 ### Key Findings
 
@@ -397,7 +396,7 @@ Potential defenses (not implemented in this baseline research):
 
 ## Dataset
 
-**Source**: [Birds vs Drones Dataset on Kaggle](https://www.kaggle.com/datasets/...)
+**Source**: [Birds vs Drone Dataset](https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset) by [harshwalia](https://www.kaggle.com/harshwalia) on Kaggle.
 
 ### Dataset Structure
 ```
@@ -480,7 +479,7 @@ Contributions are welcome! This is a research project and there are many directi
 
 ## Acknowledgments
 
-- **Dataset**: Birds vs Drones dataset from Kaggle community
+- **Dataset**: [Birds vs Drone Dataset](https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset) by harshwalia (Kaggle)
 - **Pre-trained Models**: EfficientNetB0 from TensorFlow Hub
 - **Segment Anything**: Meta AI Research
 - **Google Gemini**: Visual language model for metadata extraction
