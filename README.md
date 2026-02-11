@@ -504,7 +504,7 @@ For questions, suggestions, or collaboration opportunities:
 
 - **GitHub Issues**: [Open an issue](https://github.com/mociatto/Bird-Vs-Drone/issues)
 - **Email**: m.anoosha@hull.ac.uk
-- **LinkedIn**: [Mostafa Anoosha](www.linkedin.com/in/mostafa-anoosha)
+- **LinkedIn**: [Mostafa Anoosha](https://www.linkedin.com/in/mostafa-anoosha/)
 
 ---
 
