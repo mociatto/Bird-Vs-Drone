@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A research project investigating systematic metadata extraction from image-only datasets and privacy vulnerabilities in Vertical Federated Learning (VFL) architectures for bird vs drone classification.
 
