@@ -48,7 +48,7 @@ This project presents a comprehensive research pipeline that addresses the chall
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Image-Only Dataset                        │
+│                    Image-Only Dataset                       │
 └─────────────────────┬───────────────────────────────────────┘
                       │
                       ▼
@@ -60,7 +60,7 @@ This project presents a comprehensive research pipeline that addresses the chall
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│              Generated Tabular Dataset                       │
+│              Generated Tabular Dataset                      │
 │  (Object Detection, Colors, Shapes, Textures, etc.)         │
 └─────────────────────┬───────────────────────────────────────┘
                       │
@@ -81,13 +81,13 @@ This project presents a comprehensive research pipeline that addresses the chall
          └──────────┬──────────┘
                     ▼
          ┌─────────────────────┐
-         │  Classification      │
-         │  (Bird vs Drone)     │
+         │  Classification     │
+         │  (Bird vs Drone)    │
          └─────────────────────┘
                     │
                     ▼
          ┌─────────────────────┐
-         │  Privacy Attacks     │
+         │  Privacy Attacks    │
          │  • MIA              │
          │  • AIA              │
          └─────────────────────┘
